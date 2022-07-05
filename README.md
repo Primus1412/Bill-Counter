@@ -32,3 +32,6 @@ https://rivaldi48.blogspot.com/2019/04/tutorial-membuat-aplikasi-penjualan.html
 # Con:
 - Can't store data, so it's a one time only use 
 - Can't calculate more than one item type
+
+# App Preview
+![App Preview](https://user-images.githubusercontent.com/108708319/177267466-9289e556-c910-4485-9ced-8bfa29443c85.jpeg)
